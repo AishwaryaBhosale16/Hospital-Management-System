@@ -32,21 +32,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts and pro
 
 ---
 
-# 🏥 Hospital Management System (Java)
-
-A simple **menu-driven Hospital Management System** built in Java.  
-This project demonstrates the use of **Object-Oriented Programming (OOP)** concepts such as classes, objects, encapsulation, and basic CRUD operations.
-
----
-
-## 📂 Project Structure
-
-Hospital-Management-System/
-│
-├── Patient.java # Patient class (ID, Name, Age, Disease)
-├── Appointment.java # Appointment class (Patient ID, Date, Time)
-├── HospitalManagementSystem.java # Main menu-driven system
-└── README.md # Documentation
 
  
 
