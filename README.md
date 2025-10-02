@@ -32,6 +32,17 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts and pro
 
 ---
 
+## Usage
+
+1. Run the application to open the system interface.
+2. Use the menu options to:
+   - **Add a patient**: Enter patient details to store a new record.
+   - **Search a patient**: Find patient records by ID or name.
+   - **Update a patient**: Modify existing patient details.
+   - **Delete a patient**: Remove patient records.
+   - **Display all patients**: View all stored patient records.
+
+
 
  
 
