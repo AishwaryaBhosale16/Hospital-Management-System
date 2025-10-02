@@ -1,9 +1,9 @@
-🏥 Hospital Management System
+#🏥 Hospital Management System
 A Java-based console application that helps manage hospital records efficiently.
 It is a beginner-friendly project that demonstrates the use of Object-Oriented Programming (OOP) principles like Encapsulation, Abstraction, and toString() overriding.
 This project allows hospital staff to add, view, and delete patients as well as book, view, and cancel appointments.
 
-✨ Features
+#✨ Features
 👤 Patient Management
 ➕ Add new patients with details (ID, Name, Age, Disease)
 🔍 View all registered patients
